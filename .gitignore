@@ -1,5 +1,10 @@
-# Object file
-*.o
+# exckyde hog
+*.jpg
 
-# Ada Library Information
-*.ali
+#exclude folder
+/ext/*
+
+# exclude all jpg files in images folder
+/images/*.jpg
+
+
